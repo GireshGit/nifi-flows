@@ -50,7 +50,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "72883ca8-83b6-359c-bb40-0ab521ffd45b",
-        "name" : "xmlToJsonParse",
+        "name" : "xmlToJson",
         "type" : "PROCESSOR"
       },
       "flowFileExpiration" : "0 sec",
@@ -127,7 +127,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "72883ca8-83b6-359c-bb40-0ab521ffd45b",
-        "name" : "xmlToJsonParse",
+        "name" : "xmlToJson",
         "type" : "PROCESSOR"
       },
       "zIndex" : 13
@@ -187,7 +187,7 @@
         "comments" : "",
         "groupId" : "flow-contents-group",
         "id" : "72883ca8-83b6-359c-bb40-0ab521ffd45b",
-        "name" : "xmlToJsonParse",
+        "name" : "xmlToJson",
         "type" : "PROCESSOR"
       },
       "zIndex" : 12
@@ -1470,7 +1470,7 @@
       "groupIdentifier" : "flow-contents-group",
       "identifier" : "72883ca8-83b6-359c-bb40-0ab521ffd45b",
       "maxBackoffPeriod" : "10 mins",
-      "name" : "xmlToJsonParse",
+      "name" : "xmlToJson",
       "penaltyDuration" : "30 sec",
       "position" : {
         "x" : 616.0,
@@ -2286,6 +2286,6 @@
   "snapshotMetadata" : {
     "author" : "9200daeb-cc67-435c-ae2c-d2f9b69df010",
     "flowIdentifier" : "nifi-flow-demo",
-    "timestamp" : 1793028819544
+    "timestamp" : 1793029117381
   }
 }
